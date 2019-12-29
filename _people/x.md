@@ -1,6 +1,6 @@
 ---
 name: X
-position: gradstudent
+position: phd
 avatar: hkust.jpg
 twitter:
 joined: 2018

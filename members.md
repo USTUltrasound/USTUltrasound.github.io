@@ -1,10 +1,10 @@
 ---
-title: People
-permalink: /people/
+title: Members
+permalink: /members/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|gradstudent" | split: "|" %}
+{% assign role_array = "gl|phd" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -16,10 +16,10 @@ permalink: /people/
 {% endif %}
 
 <div class="pos_header">
-{% if role == 'pi' %}
-<h3>Principal Investigator</h3>
- {% elsif role == 'gradstudent' %}
-<h3>Graduate Students</h3>
+{% if role == 'gl' %}
+<h3>Group Leader</h3>
+ {% elsif role == 'phd' %}
+<h3>PhD Students</h3>
 
 
 {% endif %}

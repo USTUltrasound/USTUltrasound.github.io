@@ -3,7 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Fan's [google scholar citations profile](https://orcid.org/0000-0002-0274-9256).
+For those interested in numbers, see Fan's [google scholar citations profile](https://facultyprofiles.ust.hk/profiles.php?profile=fan-shi-maefanshi).
 
 We try
 
@@ -12,7 +12,7 @@ We try
 
 ### 2019
 
-_A deep learning framework for neuroscience_<br>
-Blake A Richards, Timothy P Lillicrap, ..., Konrad P Kording<br>
-Nature Neuroscience, 2019 ([Article](https://www.nature.com/articles/s41593-019-0520-2))
+_Appraising Kirchhoff approximation theory for the scattering of elastic shear waves by randomly rough defects_<br>
+Haslinger, Stewart G.; Lowe, Michael; Huthwaite, Peter; Craster, Richard V.; Shi, Fan<br>
+ Journal of Sound and Vibration, v. 460, November 2019, article number 114872 ([Article](http://repository.ust.hk/ir/Record/1783.1-99777))
 

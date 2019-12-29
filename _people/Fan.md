@@ -1,19 +1,22 @@
 ---
 name: Fan
-position: pi
+position: gl
 avatar: hkust.jpg
 twitter: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- xxx Professor, University of T_<br>
-- _t._
+- Assistant Professor, HKUST<br>
+- Department of Mechanical and Aerospace Engineering
+
 
 <i class="fa fa-envelope-o"></i> `maefanshi@ust.hk `
+<i class="fa fa-building"></i> Room 2555 <br>
+ [Homepage](http://repository.ust.hk/ir/Record/1783.1-99777)
 
 **Office**<br>
 aa <br>
 bb
 
-[Fan](https://orcid.org/0000-0002-0274-9256) r
+[Fan](https://facultyprofiles.ust.hk/profiles.php?profile=fan-shi-maefanshi) r

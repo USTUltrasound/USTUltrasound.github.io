@@ -1,5 +1,5 @@
 ---
-title: Reference
-permalink: /resources/
+title: Opening
+permalink: /opening/
 ---
 

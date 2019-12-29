@@ -1,7 +1,7 @@
 
 
 # Basic
-name:               "UST Ultrasound lab"
+name:               "UST Ultrasound"
 title:              "The Hong Kong University of Science and Technology"
 description:        "this is a page for UST Ultrasound lab, xxx"
 
@@ -22,14 +22,16 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
+  - name:           "members"
+    href:           "/members"
+  - name:           "research"
+    href:           "/research"
   - name:           "publications"
     href:           "/publication"
-  - name:           "people"
-    href:           "/people"
-  - name:           "resources"
-    href:           "/resources"
+  - name:           "opening"
+    href:           "/opening"
+  - name:           "gallery"
+    href:           "/gallery"
 
 # Sass
 sass:
