@@ -59,7 +59,8 @@ defaults:
       layout:       "profile"
   -
     scope:
-      path:         "_slides" 
+      path:         ""
+      type:         "slides"
     values:
       layout:       "iframe"
 
