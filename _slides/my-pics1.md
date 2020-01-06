@@ -9,7 +9,7 @@ permalink: /slides/my-pics1.html
 
 
 * ![A nice pic of mine](my-pics1/home1.jpg)
-* ![Another nice pic of mine](my-pics1/home1.jpg)
-* ![Another nice pic of mine](my-pics1/home1.jpg)
-* ![Another nice pic of mine](my-pics1/home1.jpg)
+* ![Another nice pic of mine](my-pics1/home2.jpg)
+* ![Another nice pic of mine](my-pics1/home3.jpg)
+* ![Another nice pic of mine](my-pics1/home4.jpg)
 
