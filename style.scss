@@ -553,3 +553,123 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+
+
+#img-wrap{
+  width:300px;
+  height:190px;
+  position: relative;
+  overflow: hidden;
+}
+#img-wrap img{
+  width:300px;
+  height:auto;
+  float:left;
+  position:absolute;
+  top:0;
+  left:0;
+  /*opacity: 0;*/
+  z-index:1;
+}
+#img-wrap img:first-child{
+  animation:h1 8s linear 0s infinite;
+  -webkit-animation:h1 8s linear 0s infinite;
+}
+#img-wrap img:nth-child(2){
+
+  animation:h2 8s linear 0s infinite;
+  -webkit-animation:h2 8s linear 0s infinite ;
+}
+#img-wrap img:nth-child(3){
+  animation:h3 8s linear 0s infinite ;
+  -webkit-animation:h3 8s linear  0s infinite  ;
+}
+#img-wrap img:nth-child(4){
+  animation:h4 8s linear 0s infinite ;
+  -webkit-animation:h4 8s linear  0s infinite  ;
+}
+
+@keyframes h1 {
+  0%{
+      left:-300px;
+  }
+  25%{
+      left:0;
+  }
+  50%{
+      left:0;
+  }
+  75%{
+      left:0;
+  }
+  100%{
+      left:0;
+  }
+}
+
+@keyframes h2 {
+  0%{
+      left:-300px;
+
+  }
+  25%{
+      left:-300px;
+
+  }
+  50%{
+      left:0;
+
+  }
+  75%{
+      left:0;
+
+  }
+  100%{
+      left:0;
+
+  }
+}
+@keyframes h3 {
+  0%{
+      left:-300px;
+
+  }
+  25%{
+      left:-300px;
+
+  }
+  50%{
+      left:-300px;
+
+  }
+  75%{
+      left:0;
+
+  }
+  100%{
+      left:0;
+
+  }
+}
+@keyframes h4 {
+  0%{
+      left:-300px;
+
+  }
+  25%{
+      left:-300px;
+
+  }
+  50%{
+      left:-300px;
+
+  }
+  75%{
+      left:-300px;
+
+  }
+  100%{
+      left:0;
+
+  }
+}

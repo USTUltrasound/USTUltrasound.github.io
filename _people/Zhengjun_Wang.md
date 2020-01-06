@@ -1,5 +1,5 @@
 ---
-name: X
+name: Zhengjun Wang
 position: phd
 avatar: hkust.jpg
 twitter:

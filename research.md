@@ -3,26 +3,24 @@ title: research
 permalink: /research/
 ---
 
-### About us
-We
-
-### Research
-aa
 
 
-### Lab Members
+### Current Research Projects:
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://USTUltrasound.github.io/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+
+
+#### Ultrasonic wave scattering from random rough defects
+
+Defects such as thermal fatigue cracks or stress corrosion cracks are rough. However, most of traditional inspection standards are based on elastic wave scattering from smooth cracks, the wave physics of which are well understood. Wave scattering from a rough defect, including reflections, diffractions and mode conversions, are much more complicated than those from a smooth crack. Every rough crack is different and hence a statistical approach to predict the stochastic scattering is very useful. The knowledge from this project is critical to help the nuclear industry to reduce inspection over-conservatism by significantly reducing the safety margin. The research focuses on both mathematical modelling of statistical elastic wave scattering, and more application-oriented research for more accurate characterisation of rough defects.  
+![avatar](/images/research/res1.jpg)
+
+
+
+#### Advanced ultrasonic imaging for defect/material characterisation
+Ultrasonic subsurface imaging can deliver vital information about the internal defects and host materials, which will help inspectors make decisions of whether the engineering components are still safe to use or not. Fully robust and more accurate ultrasonic imaging/inversion approaches are required by the industry to give fine details, high resolution and more quantitative information of the defects and materials. This project will deliver a framework of new algorithms to achieve this goal, by exploiting the maximum use of the scattering information automatically. The research outputs will be applied in different inspection scenarios. 
+![avatar](/images/research/res2.jpg)
 
 
 ### Publications
 
 For PDFs of our work, visit our [publications page](http://USTUltrasound.github.io/publication/). 
-
-
-### Collaborators
-
-Here
-
-**IC:**
-- [a](http://)

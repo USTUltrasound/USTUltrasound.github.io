@@ -57,9 +57,17 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
-
+  -
+    scope:
+      path:         "_slides" 
+    values:
+      layout:       "iframe"
 
 collections:
   people:
     output: true
     permalink: /people/:title/index.html
+  slides:
+    output: true
+
+    
