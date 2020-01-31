@@ -5,6 +5,12 @@ item: 1
 auto: true
 loop: true
 permalink: /slides/my-pics1.html
+style:
+  body:
+    init:
+      position: absolute
+      bottom: 0
+      width: 100%
 ---
 
 
