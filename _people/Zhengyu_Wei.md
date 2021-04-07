@@ -11,7 +11,7 @@ joined: 2020
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `maezywei@ust.hk`<br>
-<i class="fa fa-building"></i> Rm2209D，lift25-26 <br>
+<i class="fa fa-building"></i> Rm2209D，lift19 <br>
 
 <hr>
 
