@@ -1,7 +1,7 @@
 ---
 name: Yuting (Iris) Xue
 position: phd
-avatar: hkust.jpg
+avatar: yuting.jpg
 twitter:
 joined: 2018
 ---
@@ -10,7 +10,7 @@ joined: 2018
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `a@vvv.edu`<br>
+<i class="fa fa-envelope-o"></i>  `yxueam@connect.ust.hk`<br>
 <i class="fa fa-building"></i> s Walk <br>
  [Personal Website](https://xxx.github.io/)
 
