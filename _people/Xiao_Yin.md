@@ -1,7 +1,7 @@
 ---
 name: Xiao Yin
 position: phd
-avatar: yinxiao.jpg
+avatar: yinxiao.png
 twitter:
 joined: 2018
 ---
@@ -11,16 +11,13 @@ joined: 2018
 ### Contact
 
 <i class="fa fa-envelope-o"></i>  `xyinab@connect.ust.hk`<br>
-<i class="fa fa-building"></i> s Walk <br>
- [Personal Website](https://xxx.github.io/)
+<i class="fa fa-building"></i> Rm4018，lift2 <br>
 
 <hr>
 
 ### About Me 
 
-I am 
 <hr>
 
 ### Research Interests
 
-I'm interest

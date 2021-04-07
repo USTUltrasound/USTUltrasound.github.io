@@ -20,7 +20,8 @@ permalink: /members/
 <h3>Group Leader</h3>
  {% elsif role == 'phd' %}
 <h3>PhD Students</h3>
-
+ {% elsif role == 'postdoc' %}
+<h3>Postdoctoral Fellow</h3>
 
 {% endif %}
 </div>
