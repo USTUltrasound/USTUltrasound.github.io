@@ -4,7 +4,7 @@ permalink: /members/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "gl|phd|postdoc" | split: "|" %}
+{% assign role_array = "gl|postdoc|phd" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -18,10 +18,11 @@ permalink: /members/
 <div class="pos_header">
 {% if role == 'gl' %}
 <h3>Group Leader</h3>
- {% elsif role == 'phd' %}
-<h3>PhD Students</h3>
  {% elsif role == 'postdoc' %}
 <h3>Postdoctoral Fellow</h3>
+ {% elsif role == 'phd' %}
+<h3>PhD Students</h3>
+
 
 {% endif %}
 </div>

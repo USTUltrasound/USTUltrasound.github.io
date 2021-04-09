@@ -16,7 +16,8 @@ joined: 2018
 <hr>
 
 ### About Me 
-
+| M.Eng. | Tianjin University |
+| B.Eng. | Beihang University of Astronautics and Aeronautics |
 <hr>
 
 ### Research Interests

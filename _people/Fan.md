@@ -19,5 +19,5 @@ twitter:
 
 
 | Ph.D. | Imperial College London | 2016 |
-| MSc | Georgia Institute of Technology | 2012 |
-| BSc | Nanjing University | 2010 |
+| M.Sc. | Georgia Institute of Technology | 2012 |
+| B.Sc. | Nanjing University | 2010 |

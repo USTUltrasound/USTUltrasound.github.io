@@ -1,7 +1,7 @@
 ---
-name: Zhengyu Wei
+name: Yunke Huang
 position: postdoc
-avatar: weizhengyu.jpg
+avatar: huangyunke.jpg
 twitter:
 joined: 2020
 ---
@@ -10,14 +10,15 @@ joined: 2020
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `maezywei@ust.hk`<br>
+<i class="fa fa-envelope-o"></i>  `@ust.hk`<br>
 <i class="fa fa-building"></i> Rm2209D，lift19 <br>
 
 <hr>
 
 ### About Me 
 | Ph.D. | Northwestern Polytechnical University |
-| B.Sc. | Northwestern Polytechnical University |
+| M.Eng. | Northwestern Polytechnical University |
+| B.Sc. | Northwestern University |
 <hr>
 
 ### Research Interests

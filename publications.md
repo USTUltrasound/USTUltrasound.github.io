@@ -8,6 +8,12 @@ Please see my [google scholar](https://scholar.google.com/citations?user=QjijLn8
 
 <hr>
 
+### 2020
+[Elastic shear wave scattering by randomly rough surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0022509619307835)<br>
+SG Haslinger, MJS Lowe, P Huthwaite, RV Craster, F Shi<br>
+Journal of the Mechanics and Physics of Solids 137, 103852	
+
+
 ### 2019
 [Waveform-Based Geometrical Inversion of Obstacles](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.064008)<br>
 F Shi, P Huthwaite<br>

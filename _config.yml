@@ -32,7 +32,8 @@ nav:
     href:           "/opening"
   - name:           "gallery"
     href:           "/gallery"
-
+  - name:           "facilities"
+    href:           "/facilities"
 # Sass
 sass:
   style:            :compressed

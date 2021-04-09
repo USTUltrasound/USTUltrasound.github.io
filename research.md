@@ -20,6 +20,18 @@ Ultrasonic subsurface imaging can deliver vital information about the internal d
 ![gitment]({{'/images/research/res2.JPG' | prepend:site.baseurl}})
 
 
+#### Ultrasonic online monitoring of additive manufacturing 
+
+Additive manufacturing (AM) offers the capability of combining materials to fabric objects in three dimensions in a layer-by-layer fashion. It is significantly advancing the manufacturing industry, due to the advantages of creating complex shapes and unprecedented level of product customization. However current AM technology is not reliable and mature enough to control the quality of the metal parts. This project aims at developing an ultrasonic method to realise online monitoring of the AM process, to achieve fully robust 3D printing and improved quality of the product. The project is in collaboration with the AM research group in HKUST.
+![gitment]({{'/images/research/res3.JPG' | prepend:site.baseurl}})
+
+#### Ultrasonic inspection of fibre reinforced Cementitious Composites (ITF project)
+
+Engineered cementitious composites (ECCs) are a group of fiber-reinforced cementitious composites. While ECCs contain no coarse aggregates and only a small amount of fibres (around 2% by volume), they nevertheless have a compressive strength (30-60 MPa) comparable to concrete, along with tensile ductility that is hundreds of times greater (3%-5%). Such toughness and flexural capacity make this material a good candidate to replace concrete in prefabricated  (Modular Integrated Construction) MiC members. However, ECC may also suffer from cracking and debonding due to the low cracking strength. In addition, the manufacturing and the distribution of the fibres are also critical for the overall mechanical properties of ECC. This project will investigate the elastic wave propagation in such materials, and develop a highly reliable method of inspection. This project is in collaboration with the composite concrete research group in HKUST.
+![gitment]({{'/images/research/res4.png' | prepend:site.baseurl}})
+
+
+
 ### Publications
 
 For PDFs of our work, visit our [publications page](http://USTUltrasound.github.io/publication/). 

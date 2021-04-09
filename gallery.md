@@ -1,4 +1,4 @@
 ---
-title: gallery
-permalink: /gallery/
+title: facilities
+permalink: /facilities/
 ---
