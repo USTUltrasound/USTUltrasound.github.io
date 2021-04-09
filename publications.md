@@ -3,10 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-Please see my [google scholar](https://scholar.google.com/citations?user=QjijLn8AAAAJ&hl=zh-CN&oi=sra).
 
-
-<hr>
 
 ### 2020
 [Elastic shear wave scattering by randomly rough surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0022509619307835)<br>

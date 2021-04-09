@@ -23,5 +23,4 @@ joined: 2020
 
 <hr>
 
-### Research Interests
 

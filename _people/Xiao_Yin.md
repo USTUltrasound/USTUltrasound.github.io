@@ -22,5 +22,4 @@ joined: 2018
 
 <hr>
 
-### Research Interests
 

@@ -31,7 +31,3 @@ Engineered cementitious composites (ECCs) are a group of fiber-reinforced cement
 ![gitment]({{'/images/research/res4.png' | prepend:site.baseurl}})
 
 
-
-### Publications
-
-For PDFs of our work, visit our [publications page](http://USTUltrasound.github.io/publication/). 
