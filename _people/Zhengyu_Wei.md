@@ -1,7 +1,7 @@
 ---
 name: Zhengyu Wei
 position: postdoc
-avatar: weizhengyu.jpg
+avatar: zhengyu.jpg
 twitter:
 joined: 2020
 ---
