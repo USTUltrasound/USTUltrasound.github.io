@@ -16,9 +16,11 @@ joined: 2020
 <hr>
 
 ### About Me 
+
 | Ph.D. | Northwestern Polytechnical University |
 | M.Eng. | Northwestern Polytechnical University |
 | B.Sc. | Northwestern University |
+
 <hr>
 
 ### Research Interests
