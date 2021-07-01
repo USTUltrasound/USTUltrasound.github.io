@@ -10,7 +10,7 @@ joined: 2020
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `@ust.hk`<br>
+<i class="fa fa-envelope-o"></i>  `Yunkemae@ust.hk`<br>
 <i class="fa fa-building"></i> Rm4225，lift19 <br>
 
 <hr>
